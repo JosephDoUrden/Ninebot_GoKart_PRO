@@ -1,7 +1,5 @@
 # Flutter Ninebot Gokart PRO Mobile App UI
 
-![banner](gokart-pro-ui.png)
-
 Design Credits: sinthaistudio [View on Instagram](https://www.instagram.com/sinthaistudio/)
 
 ## Description
